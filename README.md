@@ -1,4 +1,5 @@
-URL: https://udemy-react-pics.netlify.app/
+### URL: https://udemy-react-pics.netlify.app/
+1. Emter any term in the search box and press enter key to see 10 images.
 
 # Getting Started with Create React App
 
